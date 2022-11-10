@@ -1,0 +1,1 @@
+This is a starter django/drf api project with token auth (AuthEmail) to be paired with starter frontend
