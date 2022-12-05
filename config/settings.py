@@ -145,6 +145,7 @@ REST_FRAMEWORK = {
 
 AUTH_USER_MODEL = 'accounts.MyUser'
 
+# no auth email verification needed
 AUTH_EMAIL_VERIFICATION = False
 
 if DEBUG:
